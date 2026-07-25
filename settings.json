@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mrrobotodev.aternos.me",
+    "ip": "snakehead.aternos.host",
     "port": 13197,
     "version": "1.12.2",
     "try-creative": false
