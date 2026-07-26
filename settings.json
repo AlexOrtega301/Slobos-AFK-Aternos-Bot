@@ -31,7 +31,11 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "Welcome to Development Mode."
+        "Buy A Premium Aternos Server: More RAM for You and Your friends!",
+        "Google Workspace: Drive, GMail, An Office Suit, what more do you want for your buisness?",
+        "Exareton by Aternos, Pay and Play, With our Hi-End Servers.",
+        "Download Winux, a Linux Alternative for free.",
+        "The Ad bot is still in development, so he can't leave ur server."
       ]
     },
     "chat-log": true,
